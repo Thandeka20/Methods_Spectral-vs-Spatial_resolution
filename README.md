@@ -1,1 +1,1 @@
-# Methods_Spectral-vs-Spatial_resolution
+# Methods_Spectral_Spatial
