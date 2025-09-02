@@ -10,3 +10,5 @@ The repository provides the classification code used for each dataset.
 
 A paper based on this work has been submitted for publication:
 Skosana, T.E, Rebelo, A.J, & Esler, K.J. (Under review). Exploring the trade-offs between spatial and spectral resolution in mapping invasive alien trees.
+ 
+To cite this work please use this DOI: [![DOI](https://zenodo.org/badge/1048412699.svg)](https://doi.org/10.5281/zenodo.17035496)
